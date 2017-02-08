@@ -1,0 +1,15 @@
+/node_modules
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+hot
+npm-debug.log
+npm-debug.log.*
+*.hot-update.json
+*.hot-update.js
+public/index.html
+.DS_Store
